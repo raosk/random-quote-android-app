@@ -26,12 +26,12 @@ fun MainScreen(uiState: AppUIState) {
 
 @Composable
 fun LoadingScreen() {
-    Text("Loading...")
+    Text(stringResource(R.string.loading_screen))
 }
 
 @Composable
 fun ErrorScreen() {
-    Text("Error retrieving data from API.")
+    Text(stringResource(R.string.error_screen))
 }
 
 @Composable

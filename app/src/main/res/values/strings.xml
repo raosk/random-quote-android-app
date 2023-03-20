@@ -6,4 +6,6 @@
     <string name="info_text">The app retrieves a random quote from a public API and displays both the quote and the quotee on the Home screen.</string>
     <string name="info_text_2">Bottom navigation can be used to move between the Home screen and the Info Screen.</string>
     <string name="info_text_3">The app does not include a button to refresh the quote - it is a Quote of the Day.</string>
+    <string name="loading_screen">Loading...</string>
+    <string name="error_screen">Error retrieving data from API.</string>
 </resources>

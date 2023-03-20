@@ -23,7 +23,7 @@ The app does not include a button to refresh the quote - this is a Quote of the 
 
 - [x] Strings are saved under resource file.
 
-- [x] a loading message is displayed when data is being loaded in the background.
+- [x] A loading message is displayed when data is being loaded in the background.
 
 - [x] An error message is displayed if the API fails to return the requested data.
 
